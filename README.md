@@ -14,11 +14,11 @@ Remember:
 
 2- It runs with allegro 5, so if you got version 4 you should install this one as well to try the simulator -> on ubuntu use, in order,
 
-	"sudo add-apt-repository ppa:allegro/5.2"
+	sudo add-apt-repository ppa:allegro/5.2
 	
-	"sudo apt-get update"
+	sudo apt-get update
 	
-	"sudo apt-get install liballegro5-dev" 
+	sudo apt-get install liballegro5-dev 
 	
 3- The INC.ttf file is a font file, if you delete it, you will surely have problems.
 
