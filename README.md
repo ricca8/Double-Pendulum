@@ -1,4 +1,4 @@
-Here’s a simulation of some double pendulums movement, using threads (one each pendulum, one for keyboard and one for graphic) synchronized with mutexes. It's been made as a project for my Real-Time sync project at University.
+Here’s a simulation of some double pendulums movement, using allegro as graphic library and threads (one each pendulum, one for keyboard and one for graphic) synchronized with mutexes. It's been made as a project for my Real-Time sync project at University.
 
 
 
