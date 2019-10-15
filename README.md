@@ -10,12 +10,16 @@ If it doesn't work, probably you're missing some libraries (I guess libGL), so r
 
 Remember:
 1- The number of pendulums is up to you (max 9), just modify the Data.txt file as explained there.
+
 2- It runs with allegro 5, so if you got version 4 you should install this one as well to try the simulator (on ubuntu use, in order,
 	"sudo add-apt-repository ppa:allegro/5.2"
 	"sudo apt-get update"
 	"sudo apt-get install liballegro5-dev" )
+	
 3- The INC.ttf file is a font file, if you delete it, you will surely have problems.
+
 4- CMake stuff is created by CLion on Mac OS, so it’s useless on Linux, where….
+
 5- … to use the simulator navigate in that directory through terminal and execute “make” and then "./main" (if it says it already compiled, execute "make clean" before)
 
 
