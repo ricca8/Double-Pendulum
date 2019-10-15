@@ -1,0 +1,127 @@
+//---------------------------------------------------
+// If this file is modified removing one of the pendulums,
+// remember to change the total num right down here.
+//---------------------------------------------------
+
+
+Number of Double Pendulums:
+9
+__________________________
+1st Pendulum:
+Theta_1:
+20
+
+Mass_1:
+1
+---------------	
+Theta_2:
+10
+
+Mass_2:
+1
+__________________________
+
+2nd Pendulum:
+Theta_1:
+20
+
+Mass_1:
+1
+---------------	
+Theta_2:
+60
+
+Mass_2:
+1
+__________________________
+3rd Pendulum:
+Theta_1:
+120
+
+Mass_1:
+1
+---------------	
+Theta_2:
+30
+
+Mass_2:
+1
+__________________________
+4th Pendulum:
+Theta_1:
+40
+
+Mass_1:
+1
+---------------
+Theta_2:
+80
+
+Mass_2:
+1
+__________________________
+5th Pendulum:
+Theta_1:
+50
+
+Mass_1:
+1
+---------------	
+Theta_2:
+100
+
+Mass_2:
+1
+__________________________
+6th Pendulum:
+Theta_1:
+30
+
+Mass_1:
+1
+---------------	
+Theta_2:
+45
+
+Mass_2:
+1
+__________________________
+7th Pendulum:
+Theta_1:
+12
+
+Mass_1:
+1
+---------------	
+Theta_2:
+70
+
+Mass_2:
+1
+__________________________
+8th Pendulum:
+Theta_1:
+80
+
+Mass_1:
+1
+---------------	
+Theta_2:
+80
+
+Mass_2:
+1
+__________________________
+9th Pendulum:
+Theta_1:
+90
+
+Mass_1:
+1
+---------------	
+Theta_2:
+110
+	
+Mass_2:
+1
+__________________________
